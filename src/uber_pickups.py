@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 st.write('This is an streamlit app made following this tutorial:) 
-st.write(https://docs.streamlit.io/get-started/tutorials/create-an-app')
+st.write('https://docs.streamlit.io/get-started/tutorials/create-an-app')
 
 st.title('Uber pickups in NYC')
 
